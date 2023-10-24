@@ -19,3 +19,5 @@
     <li>What is the best type of game to make to be successful and what are the attributes of that game?</li>
 </ul>
 <p>Tableau was used to compile the data and create visualizations with a <a href="https://public.tableau.com/app/profile/ben.thomas6712/viz/BoardGameAnalysis_16981221522880/BoardGameAnalysis?publish=yes">tableau story</a>.</p>
+<p><a href="https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek?select=games.csv">All board games data set</a></p>
+<p><a href="https://www.kaggle.com/datasets/nfedorov/top-2000-board-games-ratings">Top 2000 board games data set</a></p>
